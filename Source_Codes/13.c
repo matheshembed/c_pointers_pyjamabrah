@@ -1,0 +1,1 @@
+/*S5L1. What is a function pointer? | Understanding C - Pointers*/
