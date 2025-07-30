@@ -1,6 +1,6 @@
-# 🧠 C Pointer Playground – Pyjamabrah Course Archive by MatheshVarma
+# 🧠 C Pointer Playground – Pyjamabrah Course By Piyush Itankar.
 
-Welcome to a curated collection of **C pointer programs** inspired by instructor *Piyush* from the Pyjamabrah course series. Originally built for personal code maintenance, this repository is now shared to support beginners diving into the foundational depths of C pointers—with clarity, precision, and hands-on experimentation.
+Welcome to a curated collection of **C pointer programs** inspired by instructor ***Piyush*** from the Pyjamabrah course series. Originally built for personal code maintenance, this repository is now shared to support beginners diving into the foundational depths of C pointers—with clarity, precision, and hands-on experimentation.
 
 ## 📁 Repository Structure
 Just follow the Numbers of the file names and inside each and  every file there will be information of which part of the course is given.
